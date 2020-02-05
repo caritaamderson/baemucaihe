@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://beedaekeel.datascibc.org/sitemap.xml
